@@ -167,8 +167,7 @@ import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers
 
 // ─── Config ───
 const HF_REPO = 'TylerF/all-MiniLM-L6-v2_to_text-embedding-3-large';
-const HF_TOKEN = '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';
-const hfUrl = (file) => `https://huggingface.co/${HF_REPO}/resolve/main/${file}?token=${HF_TOKEN}`;
+const hfUrl = (file) => `https://huggingface.co/${HF_REPO}/resolve/main/${file}`;
 const hfHeaders = {};
 const BLOCK_SIZE = 64;
 
