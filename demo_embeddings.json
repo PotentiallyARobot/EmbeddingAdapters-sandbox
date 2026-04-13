@@ -1,49 +1,49 @@
 {
-  "query": "How do I stop channel notifications?",
+  "query": "How do I return an item and get my money back?",
   "passages": [
-    "Turn off notifications for that channel in channel settings.",
-    "Mute the channel to stop alerts without leaving it.",
-    "You can still read messages after muting notifications.",
-    "Leaving a channel removes it from your workspace.",
-    "Trap: To stop notifications, keep them on and leave the channel.",
-    "Adjust notification timing if you want fewer alerts, not none.",
-    "Mobile app notifications can be changed in app settings.",
-    "If mentions still alert you, change mention notifications too."
+    "Return items within 30 days for a full refund.",
+    "Refunds are issued after the returned product is inspected.",
+    "Exchanges are available for the same item or a different size.",
+    "Track your package with the shipping confirmation email.",
+    "Our credit card offers cash back on every purchase.",
+    "Cancel a payment before the bank processes it.",
+    "Store credit can be used for future purchases only.",
+    "Free returns are available for damaged items."
   ],
   "adapter_dim": 3072,
   "adapter_query_embedding_preview": [
-    -0.018862,
-    -0.051004,
-    -0.012799,
-    0.046723,
-    -0.031605,
-    0.038173,
-    -0.016775,
-    0.032687,
-    0.025599,
-    -0.003802,
-    -0.007016,
-    -0.031648,
-    -0.021485,
-    -0.014515,
-    0.024972,
-    -0.044772
+    -0.01314,
+    -0.003127,
+    -0.001594,
+    -0.026577,
+    -0.033157,
+    -0.020223,
+    0.003289,
+    0.026711,
+    0.01427,
+    0.012017,
+    0.014846,
+    -0.020619,
+    -0.00462,
+    -0.00866,
+    0.057911,
+    -0.023211
   ],
   "rankings": {
     "openai": [
       0,
-      4,
+      7,
       1
     ],
     "adapter": [
       0,
       1,
-      4
+      7
     ],
     "qwen": [
-      4,
+      7,
       0,
-      1
+      4
     ]
   }
 }
